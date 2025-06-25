@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.daimlertrucksasia.it.dsc.SentinelCore</groupId>
-    <artifactId>SentinelCore</artifactId>
+    <artifactId>DSC-Nexus-SentinelCore</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>SentinelCore</name>
+    <name>DSC-Nexus-SentinelCore</name>
     <description>SentinelCore is a centralized health monitoring microservice developed for Daimler Trucks Asia IT DSC.
         It provides real-time health checks and status aggregation for critical infrastructure components such as
         databases,
